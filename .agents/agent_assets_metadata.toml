@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "vwDNs4S_7eWySJwfc1R9q"
+uri = "file://artifacts/quva-pardalari/public/images/hero.png"
+type = "image"
+title = "Hero background luxury curtains"
+
+[[generated]]
+id = "_DFcONtrhUQmwiarEAUNV"
+uri = "file://artifacts/quva-pardalari/public/images/classic-1.png"
+type = "image"
+title = "Classic curtain 1"
+
+[[generated]]
+id = "oWJUZz0_FbeN9GOSsZ4lQ"
+uri = "file://artifacts/quva-pardalari/public/images/classic-2.png"
+type = "image"
+title = "Classic curtain 2"
+
+[[generated]]
+id = "MRnxgNvZeCaPM4_p7ObLF"
+uri = "file://artifacts/quva-pardalari/public/images/classic-3.png"
+type = "image"
+title = "Classic curtain 3"
+
+[[generated]]
+id = "i2vfW8Hrl1MipFTc5-ce9"
+uri = "file://artifacts/quva-pardalari/public/images/modern-1.png"
+type = "image"
+title = "Modern curtain 1"
+
+[[generated]]
+id = "rQwPRZoMNum7euKfGwY3M"
+uri = "file://artifacts/quva-pardalari/public/images/modern-2.png"
+type = "image"
+title = "Modern curtain 2"
+
+[[generated]]
+id = "OZVbilFUss21S2K5TOvsg"
+uri = "file://artifacts/quva-pardalari/public/images/modern-3.png"
+type = "image"
+title = "Modern curtain 3"
+
+[[generated]]
+id = "QtZ9cZRpCVu81wishVleJ"
+uri = "file://artifacts/quva-pardalari/public/images/office-1.png"
+type = "image"
+title = "Office blinds 1"
+
+[[generated]]
+id = "v8x_yDi26wd4qLdYgF_Ud"
+uri = "file://artifacts/quva-pardalari/public/images/office-2.png"
+type = "image"
+title = "Office curtain 2"
+
+[[generated]]
+id = "v44RALTOMTsSwhL6FNYFd"
+uri = "file://artifacts/quva-pardalari/public/images/office-3.png"
+type = "image"
+title = "Office blinds 3"

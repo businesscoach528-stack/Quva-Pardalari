@@ -4,6 +4,10 @@
 
 pnpm workspace monorepo using TypeScript. Each package manages its own dependencies.
 
+## Artifacts
+
+- `quva-pardalari` (react-vite, served at `/`) — Uzbek-language landing site for "Quva Pardalari", a curtain business in Quva, Fergana. Single-page presentation site with hero, about, catalog (klassik / zamonaviy / ofis), advantages, contact, and footer. All CTAs link to Telegram (https://t.me/Quva_pardalar). Soft-luxury beige/cream/espresso palette, framer-motion scroll animations, no backend.
+
 ## Stack
 
 - **Monorepo tool**: pnpm workspaces
